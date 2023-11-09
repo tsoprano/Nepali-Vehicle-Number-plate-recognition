@@ -1,4 +1,6 @@
-# Nepali-Vehicle-Number-plate-recognition
+![image](https://github.com/tsoprano/Nepali-Vehicle-Number-plate-recognition/assets/33021499/38e77ad2-5d66-4485-824c-e0ed2ab8479e)# Nepali-Vehicle-Number-plate-recognition
 Nepali vehicle number plate recognition system
 
 Extracting the numerals and other vehicle identifying details from a number plate together are grouped as the tasks of the Number plate recognition system. An image of a vehicle is sent through many image processing steps including localization of the number plate, segmentation, character recognition and labeling. This report details out the Nepalese vehicle number plate recognition and even-odd classification model which is based on machine learning tools. Each task of plate localization, character segmentation, and numeral recognition uses various image processing algorithms as well as neural network based models as provided by different python and TensorFlow libraries. The automated system utilizes numeral image data extracted from the internet, self taken vehicle images from parking lots, and regular traffic flow videos taken from YouTube for training and testing. This paper describes a method to localize Nepali vehicles’ number plates from image data, extract the characters from the number plates to classify them into odd and even number plates.
+
+![image](https://github.com/tsoprano/Nepali-Vehicle-Number-plate-recognition/assets/33021499/1f440eb6-210d-4f05-ab0a-127752d260d1)
